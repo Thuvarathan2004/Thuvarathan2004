@@ -1,34 +1,53 @@
+<div align="center">
+
 # Hi, I'm Thuvarathan Vijayaruban 👋
 
-### Aspiring Software Developer | C# | ASP.NET Core | Angular | SQL
+### Aspiring Full-Stack Software Developer
 
-I'm an Information Technology student interested in full-stack software development.
+**C# • ASP.NET Core • Angular • TypeScript • SQL Server • Flutter • Dart**
 
-I enjoy building practical applications, learning new technologies, and improving my programming and problem-solving skills.
+📍 Jaffna, Sri Lanka &nbsp; | &nbsp; 🎓 Information Technology Student
 
-Currently, I'm also learning **Dart & Flutter** for cross-platform application development.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thuvarathan-vijayaruban/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thuvarathan2004)
+
+</div>
 
 ---
 
-## 💻 Tech Stack
+## 👨‍💻 About Me
 
-### Languages
+I'm an Information Technology student with an interest in **full-stack development** and building practical, user-friendly applications. I enjoy working across frontend interfaces, backend APIs, and databases while improving my programming and problem-solving skills.
+
+- 💻 Working with **C#, ASP.NET Core Web API, Angular, TypeScript, and SQL Server**
+- 📱 Exploring cross-platform app development with **Flutter and Dart**
+- 🤝 Interested in collaborative software development, Git, and GitHub workflows
+- 📚 Continuously learning application architecture, APIs, and clean coding practices
+
+## 🛠️ Tech Stack
+
+**Languages**
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### Frontend
+**Frontend & Mobile**
+
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### Backend & Database
+**Backend & Database**
+
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-00897B?style=for-the-badge)
 
-### Tools
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -36,45 +55,65 @@ Currently, I'm also learning **Dart & Flutter** for cross-platform application d
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### Event & Parking Reservation System
+### 🎟️ Event & Parking Reservation System — Team Project
 
-A team-based full-stack application developed using **Angular** and **ASP.NET Core Web API**.
+A full-stack reservation application built with **Angular** and **ASP.NET Core Web API**. The team project covers event and booking management, seat and parking reservations, JWT authentication, payment simulation, notifications, and customer/admin dashboards.
 
-The system includes:
+**Repositories:** [Angular Frontend](https://github.com/Raviraj-Karththikesu/Frontend-Event-Parking-Reservation-System-Angular) · [ASP.NET Core Backend](https://github.com/Raviraj-Karththikesu/Angular-With-Event-And-Parking-Reservation-System)
 
-- Event Management
-- Seat Reservation
-- Parking Reservation
-- Booking Management
-- JWT Authentication
-- Payment Simulation
-- Notifications
-- Customer & Admin Dashboards
+### 🗺️ Wayhunter — Team Tourism & Real-World Game Project
 
-### Repositories
+A Sri Lanka-focused tourism app concept combining trip planning, location discovery, and real-world games. My team work focuses on the **Game module**, including game creation, participation, evidence validation, admin review workflows, and reward-related integration.
 
-🔹 [Frontend - Angular](https://github.com/Raviraj-Karththikesu/Frontend-Event-Parking-Reservation-System-Angular)
+**Stack involved:** Flutter / Dart · C# / ASP.NET Core · Git / GitHub
 
-🔹 [Backend - ASP.NET Core](https://github.com/Raviraj-Karththikesu/Angular-With-Event-And-Parking-Reservation-System)
+> Team project in development. Features and integrations may still be in progress.
+
+### ✅ Taskify Premium — Flutter To-Do App
+
+A colorful Flutter task-management practice app featuring a profile screen, animated splash screen, and local persistence with SharedPreferences.
+
+**Repository:** [taskify_premium](https://github.com/Thuvarathan2004/taskify_premium)
+
+### 📱 Phone Sales — Angular Practice Project
+
+A frontend practice project for developing Angular skills.
+
+**Repository:** [phone-sales-angular](https://github.com/Thuvarathan2004/phone-sales-angular)
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thuvarathan2004&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thuvarathan2004&layout=compact&hide_border=true)
+
+[View my contributions on GitHub](https://github.com/Thuvarathan2004?tab=overview)
+
+</div>
+
+> Statistics are generated by a third-party service and may be temporarily unavailable or may not include private and organization contributions.
 
 ---
 
 ## 📚 Currently Learning
 
-- Dart
-- Flutter
-- Cross-platform Application Development
+Flutter & Dart · Cross-platform application development · Full-stack application architecture · API integration
 
----
+## 🤝 Let's Connect
 
-## 🤝 Connect With Me
+I'm always interested in learning, collaboration, and opportunities to grow as a software developer.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thuvarathan-vijayaruban/)
+- 💼 **LinkedIn:** [thuvarathan-vijayaruban](https://www.linkedin.com/in/thuvarathan-vijayaruban/)
+- 💻 **GitHub:** [Thuvarathan2004](https://github.com/Thuvarathan2004)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thuvarathan2004)
+<div align="center">
 
----
+**Thanks for visiting my profile! 👨‍💻**
 
-### Thanks for visiting my profile! 👨‍💻
+</div>
